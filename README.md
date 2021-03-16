@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srele96
+- 👋 Hi, I’m @Srecko_Kostic
 - 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning ReactJS and Webpack
 - 💞️ I’m looking to collaborate on ...
