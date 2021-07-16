@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Srecko_Kostic
-- 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning ReactJS and Webpack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, srele96@gmail.com
+- 👋 Hi, I’m Srecko
+- 👀 I’m interested in Web Development
+- 📫 My e-mail: srele96@gmail.com
 
 <!---
 srele96/srele96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
