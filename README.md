@@ -2,6 +2,10 @@
 
 I am a software developer professionally and for fun.
 
+## My skill level
+
+I think you could estimate my skills and knowledge by looking at my activity here.
+
 ## My learning method
 
 I will learn anything that is interesting. My area of interest is not specific, but my latest area of interest can be seen on my GitHub profile activity.
