@@ -6,6 +6,8 @@ I am a software developer professionally and for fun.
 
 I think you could estimate my skills and knowledge by looking at my activity here.
 
+The downside is it probably requires a technical person :)
+
 ## My learning method
 
 I will learn anything that is interesting. My area of interest is not specific, but my latest area of interest can be seen on my GitHub profile activity.
