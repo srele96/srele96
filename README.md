@@ -16,10 +16,6 @@ Srecko Kostic - Aspiring software engineer. Good habits will take me a long way.
 
 I want to learn everything there is.
 
-## Contact
-
-You can contact me on my email address: `srele96@gmail.com`.
-
 <!---
 srele96/srele96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
