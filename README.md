@@ -1,12 +1,4 @@
-# Srecko Kostic
-
-Good habits will take me a long way.
-
-## Topics of Interest
-
-- Math
-- Algorithms & Data Structures
-- Computer Graphics
+go away :)
 
 <!---
 srele96/srele96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
