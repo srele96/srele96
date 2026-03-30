@@ -74,7 +74,7 @@ Experimental project exploring real-time communication and remote access to loca
 * C++, Graphics and Rendering
 * Mathematics (calculus & real analysis)
 
---
+---
 <!---
 srele96/srele96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
