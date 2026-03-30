@@ -24,6 +24,16 @@ Technical Highlights:
 
 ---
 
+## Home Server & Automation: Media Pipeline
+
+Python Media Tool: Developed a custom YouTube downloader utility to automate media acquisition.
+
+Infrastructure as Code: Wrote comprehensive Bash scripts for automated deployment and environment teardown, ensuring a reproducible "clean slate" setup.
+
+Private Mesh Networking: Self-hosted the service on a dedicated home server (Fedora Linux), securely exposed via Tailscale. This creates a private, encrypted mesh network allowing restricted access for authorized family devices without exposing the server to the public internet.
+
+---
+
 ## First Principles & Deep Dives
 
 For the past few years, I've been working on a long-term personal project:
@@ -59,6 +69,14 @@ Experimental project exploring real-time communication and remote access to loca
 * Solved ~50 problems, emphasizing pattern recognition and solution design
 * Practiced recalling and re-deriving solutions to reinforce understanding
 * Built strong intuition for recursion, state transitions, and optimization problems
+
+---
+
+## Engineering Philosophy: No "Vibe Coding"
+
+Every line of code in these repositories is intentional. I do not "vibe code."
+
+I can discuss the "what," the "how," and—most importantly—the "why" behind every decision I make.
 
 ---
 
