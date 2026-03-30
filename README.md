@@ -17,7 +17,7 @@ Technical Highlights:
 * Architectural Scalability: Implemented RAII (Resource Acquisition Is Initialization) for OpenGL objects (VAOs, VBOs, Shaders, Framebuffers) to ensure memory safety and zero resource leaks.
 * Modern C++ Design: Used templates and trait systems to create a generic VertexLayout and Mesh system that maps C++ structs to GPU buffers at compile-time.
 * Mathematical Foundations: Built a custom camera system, coordinate transformations (MVP), and spherical/parametric geometry generators (Spheres, Cylinders, Toruses) using trigonometry and calculus.
-* Rendering Techniques: * Lighting & Shadows: Implemented Phong reflection models and Cascaded/Directional Shadow Mapping (handling PCF filtering and shadow acne).
+* Rendering Techniques: Lighting & Shadows: Implemented Phong reflection models and Cascaded/Directional Shadow Mapping.
 * Shader Architecture: Created a custom shader preprocessing system that supports #define injections and string replacements for modular GLSL code.
 * Post-Processing: Designed a framebuffer-based pipeline for screen-space effects like vignettes.
 * Documentation: Maintaining a collection of mathematical proofs and diagrams explaining the "under the hood" logic of LookAt matrices and normal transformations. [https://github.com/srele96/graphics-docs/](https://github.com/srele96/graphics-docs/)
