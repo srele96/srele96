@@ -60,7 +60,7 @@ Experimental project exploring real-time communication and remote access to loca
 * Practiced recalling and re-deriving solutions to reinforce understanding
 * Built strong intuition for recursion, state transitions, and optimization problems
 
---
+---
 
 ## What I Care About
 
