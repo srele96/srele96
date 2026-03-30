@@ -7,7 +7,8 @@ My secondary focus is C++, where I’m currently working on computer graphics an
 ---
 
 ## Modern C++ & OpenGL Rendering
-github.com/srele96/cpp-something
+
+[github.com/srele96/cpp-something](https://github.com/srele96/cpp-something)
 
 For the last two months, I’ve been implementing a rendering sandbox from scratch to master the pipeline between C++ and the GPU. My focus is on writing scalable, architectural code rather than just "making things appear on screen."
 
@@ -19,14 +20,14 @@ Technical Highlights:
 * Rendering Techniques: * Lighting & Shadows: Implemented Phong reflection models and Cascaded/Directional Shadow Mapping (handling PCF filtering and shadow acne).
 * Shader Architecture: Created a custom shader preprocessing system that supports #define injections and string replacements for modular GLSL code.
 * Post-Processing: Designed a framebuffer-based pipeline for screen-space effects like vignettes.
-* Documentation: Maintaining a collection of mathematical proofs and diagrams explaining the "under the hood" logic of LookAt matrices and normal transformations. https://github.com/srele96/graphics-docs/
+* Documentation: Maintaining a collection of mathematical proofs and diagrams explaining the "under the hood" logic of LookAt matrices and normal transformations. [https://github.com/srele96/graphics-docs/](https://github.com/srele96/graphics-docs/)
 
 ---
 
 ## First Principles & Deep Dives
 
 For the past few years, I've been working on a long-term personal project:
-https://github.com/srele96/sk-experiments
+[https://github.com/srele96/sk-experiments](https://github.com/srele96/sk-experiments)
 
 * Explored JavaScript internals (Webpack, Babel, core-js)
 * Practiced algorithms, data structures, and problem solving
@@ -40,7 +41,7 @@ I also spent about a year studying mathematics (algebra, trigonometry, calculus,
 
 WebSocket Real-Time App (me-and-ngrok)
 
-GitHub: https://github.com/srele96/me-and-ngrok
+GitHub: [https://github.com/srele96/me-and-ngrok](https://github.com/srele96/me-and-ngrok)
 
 Experimental project exploring real-time communication and remote access to local applications.
 
